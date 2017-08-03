@@ -1,0 +1,78 @@
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\PerformanceComparison.exe.config
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\PerformanceComparison.exe
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\PerformanceComparison.pdb
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\log4net.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\RabbitMQ.Client.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\StackExchange.Redis.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\SyslogNet.Client.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\System.IO.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\System.Runtime.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\System.Threading.Tasks.dll
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\log4net.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\RabbitMQ.Client.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\StackExchange.Redis.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\System.IO.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\System.Runtime.xml
+D:\Redis\Redis project\RedisHash\RedisTest\bin\Debug\System.Threading.Tasks.xml
+D:\Redis\Redis project\RedisHash\RedisTest\obj\Debug\PerformanceComparison.csproj.App.config
+D:\Redis\Redis project\RedisHash\RedisTest\obj\Debug\PerformanceComparison.exe
+D:\Redis\Redis project\RedisHash\RedisTest\obj\Debug\PerformanceComparison.pdb
+D:\Redis\Redis project\RedisHash\RedisTest\obj\Debug\PerformanceComparison.csprojResolveAssemblyReference.cache
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\PerformanceComparison.exe.config
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\PerformanceComparison.exe
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\PerformanceComparison.pdb
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\log4net.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\RabbitMQ.Client.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\StackExchange.Redis.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\SyslogNet.Client.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\System.IO.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\System.Runtime.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\System.Threading.Tasks.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\log4net.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\RabbitMQ.Client.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\StackExchange.Redis.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\System.IO.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\System.Runtime.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\bin\Debug\System.Threading.Tasks.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\obj\Debug\PerformanceComparison.csproj.App.config
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\obj\Debug\PerformanceComparison.csprojResolveAssemblyReference.cache
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\obj\Debug\PerformanceComparison.exe
+D:\Redis-RabbitMQ-SQLServer-LogFile\RedisTest\obj\Debug\PerformanceComparison.pdb
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\PerformanceComparison.exe.config
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\PerformanceComparison.exe
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\PerformanceComparison.pdb
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\log4net.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\RabbitMQ.Client.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\StackExchange.Redis.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\SyslogNet.Client.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\System.IO.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\System.Runtime.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\System.Threading.Tasks.dll
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\log4net.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\RabbitMQ.Client.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\StackExchange.Redis.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\System.IO.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\System.Runtime.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\bin\Debug\System.Threading.Tasks.xml
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\obj\Debug\PerformanceComparison.csproj.App.config
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\obj\Debug\PerformanceComparison.csprojResolveAssemblyReference.cache
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\obj\Debug\PerformanceComparison.exe
+D:\Redis-RabbitMQ-SQLServer-LogFile\PerformanceComparison\obj\Debug\PerformanceComparison.pdb
